@@ -52,7 +52,7 @@ streamlit run deep_learning_main.py
 
 ## 👤 Author
 **Pahuldeep Singh Dhingra**  
-📧 Email: your.email@example.com  
+📧 Email: pahuldeepsingh531@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pahuldeepsing/) | [GitHub](https://github.com/pahul1712)
 
 
