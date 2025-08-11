@@ -29,6 +29,34 @@ The model predicts whether a given movie review is **positive** or **negative**,
 ---
 
 ## 📂 Project Structure
+├── End_to_End_DeepLearning_project.ipynb # Model training and evaluation in Colab
+├── prediction.ipynb # Testing and predictions
+├── deep_learning_main.py # Streamlit app for deployment
+├── simple_rnn_imdb_project.h5 # Saved trained model
+├── requirements.txt # Required dependencies
+└── README.md # Project documentation
+
+📦 Installation & Setup
+1. Clone the repository:
+
+git clone https://github.com/pahul1712/Cinematic-Sentiment-Analyzer-Using-RNN.git
+
+2.Install dependencies:
+
+pip install -r requirements.txt
+
+3.Run the app:
+
+streamlit run deep_learning_main.py
+
+
+## 👤 Author
+**Pahuldeep Singh Dhingra**  
+📧 Email: your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pahuldeepsing/) | [GitHub](https://github.com/pahul1712)
+
+
+
 
 
 
